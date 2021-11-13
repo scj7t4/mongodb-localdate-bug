@@ -34,5 +34,4 @@ class DemoApplicationTests {
 				Matchers.equalTo(result.get("fieldA")));
 		System.out.println(result.toJson());
 	}
-
 }
